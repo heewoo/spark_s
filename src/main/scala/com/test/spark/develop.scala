@@ -8,6 +8,8 @@ import org.apache.spark.SparkContext
 object develop {
 
   val conf = new SparkConf().setMaster("local").setAppName("heewoo")
+  conf.set("spark.driver.host","10.0.4.193") // host 지정 //
+
   val sc = new SparkContext(conf)
 
   val input = sc.textFile("/Users/yellomobile/Desktop/sitemap-1.xml")
@@ -46,7 +48,7 @@ object develop {
   }
 
   def main(args: Array[String]): Unit = {
-    take()
+    input.collect().foreach(println)
   }
 
 

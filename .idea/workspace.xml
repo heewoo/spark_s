@@ -2,499 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed41884-e4e5-4217-a4d9-3330324513f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_shaded_3_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ning_compress_lzf_1_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_2_11_0_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_graphite_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_8_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_razorvine_pyrolite_4_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_py4j_py4j_0_10_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_ipc_tests_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_mapred_hadoop2_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_crypto_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_7_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_7_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_htrace_htrace_core_3_1_0_incubating.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ivy_ivy_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_core_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_launcher_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_common_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_network_shuffle_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_tags_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_spark_spark_unsafe_2_11_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_asm5_shaded_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b34.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_ast_2_11_3_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_core_2_11_3_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json4s_json4s_jackson_2_11_3_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_roaringbitmap_RoaringBitmap_0_5_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_modules_scala_xml_2_11_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_reflect_2_11_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scalatest_scalatest_2_11_2_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spark_project_spark_unused_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/play2_compiler_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/develop.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/spark_test.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2cceb591b57e01d52cab$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2cceb591b57e01d52cab$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2cceb591b57e01d52cab.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/project/target/config-classes/$2cceb591b57e01d52cab.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01053785db0b252e629b$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01053785db0b252e629b$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01053785db0b252e629b.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$01053785db0b252e629b.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0f918f5f8a2754ff05ae$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0f918f5f8a2754ff05ae$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0f918f5f8a2754ff05ae.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$0f918f5f8a2754ff05ae.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1135dbf60f4ebaa1b952$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1135dbf60f4ebaa1b952$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1135dbf60f4ebaa1b952.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$1135dbf60f4ebaa1b952.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$26d2b6e5b6ce3254190f$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$26d2b6e5b6ce3254190f$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$26d2b6e5b6ce3254190f.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$26d2b6e5b6ce3254190f.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$29251986473d055e13a3$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$29251986473d055e13a3$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$29251986473d055e13a3.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$29251986473d055e13a3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2cd126a30854fed7493c$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2cd126a30854fed7493c$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2cd126a30854fed7493c.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2cd126a30854fed7493c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2d9bdda647852fa61ce9$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2d9bdda647852fa61ce9.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2d9bdda647852fa61ce9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2fb63b3b9240fe00cf87$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2fb63b3b9240fe00cf87$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2fb63b3b9240fe00cf87.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$2fb63b3b9240fe00cf87.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$32f619e0fcc1089455d9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$32f619e0fcc1089455d9$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$32f619e0fcc1089455d9.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$32f619e0fcc1089455d9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5208c37011f918694075$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5208c37011f918694075$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5208c37011f918694075.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5208c37011f918694075.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$59d874e82eacbd3857d1$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$59d874e82eacbd3857d1.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$59d874e82eacbd3857d1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ff8927d209dc3d26dcd$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ff8927d209dc3d26dcd$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ff8927d209dc3d26dcd$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ff8927d209dc3d26dcd.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$5ff8927d209dc3d26dcd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6d67a219a9d087618846$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6d67a219a9d087618846$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6d67a219a9d087618846.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$6d67a219a9d087618846.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$93506e8f447596e7138d$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$93506e8f447596e7138d$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$93506e8f447596e7138d$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$93506e8f447596e7138d.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$93506e8f447596e7138d.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a0419e01e56d89654df0$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a0419e01e56d89654df0$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a0419e01e56d89654df0.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$a0419e01e56d89654df0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ad895db6968872fa7d87$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ad895db6968872fa7d87$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ad895db6968872fa7d87.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$ad895db6968872fa7d87.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a888bce359532067d5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a888bce359532067d5$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a888bce359532067d5.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b1a888bce359532067d5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b44cc89ebb79809a8e1e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b44cc89ebb79809a8e1e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$b44cc89ebb79809a8e1e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$be16ae71ac74589ee20e$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$be16ae71ac74589ee20e$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$be16ae71ac74589ee20e.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$be16ae71ac74589ee20e.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd89285e3dda1e54837a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd89285e3dda1e54837a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd89285e3dda1e54837a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$dd89285e3dda1e54837a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$eee13a24c2cc72e76cec$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$eee13a24c2cc72e76cec$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$eee13a24c2cc72e76cec.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$eee13a24c2cc72e76cec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f09c087c7bbafa0848a7$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f09c087c7bbafa0848a7$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f09c087c7bbafa0848a7.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f09c087c7bbafa0848a7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f506a226eb73ec61cfb9$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f506a226eb73ec61cfb9$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f506a226eb73ec61cfb9.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project/target/config-classes/$f506a226eb73ec61cfb9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/BroadcastTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/DFSReadWriteTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/DriverSubmissionTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ExceptionHandlingTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/GroupByTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/HdfsTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LocalALS.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LocalFileLR.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LocalKMeans.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LocalLR.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LocalPi.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LogQuery.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/MultiBroadcastTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SimpleSkewedGroupByTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SkewedGroupByTest.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkALS.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkHdfsLR.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkKMeans.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkLR.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkPageRank.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkPi.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkTC.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/AggregateMessagesExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/Analytics.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/ComprehensiveExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/ConnectedComponentsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/LiveJournalPageRank.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/PageRankExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/SSSPExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/SynthBenchmark.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/graphx/TriangleCountingExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/AFTSurvivalRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/ALSExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/BinarizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/BisectingKMeansExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/BucketedRandomProjectionLSHExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/BucketizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/ChiSqSelectorExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/CountVectorizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/DCTExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/DataFrameExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/DecisionTreeClassificationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/DecisionTreeExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/DecisionTreeRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/DeveloperApiExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/ElementwiseProductExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/EstimatorTransformerParamExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/GBTExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/GaussianMixtureExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/GeneralizedLinearRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/GradientBoostedTreeClassifierExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/GradientBoostedTreeRegressorExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/IndexToStringExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/InteractionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/IsotonicRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/KMeansExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/LDAExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/LinearRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/LinearRegressionWithElasticNetExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/LogisticRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/LogisticRegressionSummaryExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/LogisticRegressionWithElasticNetExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/MaxAbsScalerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/MinHashLSHExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/MinMaxScalerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/ModelSelectionViaCrossValidationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/ModelSelectionViaTrainValidationSplitExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/MulticlassLogisticRegressionWithElasticNetExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/MultilayerPerceptronClassifierExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/NGramExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/NaiveBayesExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/NormalizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/OneHotEncoderExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/OneVsRestExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/PCAExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/PipelineExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/PolynomialExpansionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/QuantileDiscretizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/RFormulaExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/RandomForestClassifierExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/RandomForestExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/RandomForestRegressorExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/SQLTransformerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/StandardScalerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/StopWordsRemoverExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/StringIndexerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/TfIdfExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/TokenizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/UnaryTransformerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/VectorAssemblerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/VectorIndexerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/VectorSlicerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/ml/Word2VecExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/AbstractParams.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/AssociationRulesExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/BinaryClassification.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/BinaryClassificationMetricsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/BisectingKMeansExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/ChiSqSelectorExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/Correlations.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/CorrelationsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/CosineSimilarity.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeClassificationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/DecisionTreeRunner.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/DenseKMeans.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/ElementwiseProductExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/FPGrowthExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/GaussianMixtureExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/GradientBoostedTreesRunner.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/GradientBoostingClassificationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/GradientBoostingRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/HypothesisTestingExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/HypothesisTestingKolmogorovSmirnovTestExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/IsotonicRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/KMeansExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/KernelDensityEstimationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/LBFGSExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/LDAExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/LatentDirichletAllocationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/LinearRegression.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/LinearRegressionWithSGDExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/LogisticRegressionWithLBFGSExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/MovieLensALS.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/MultiLabelMetricsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/MulticlassMetricsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/MultivariateSummarizer.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/NaiveBayesExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/NormalizerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/PCAExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/PCAOnRowMatrixExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/PCAOnSourceVectorExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/PMMLModelExportExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/PowerIterationClusteringExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/PrefixSpanExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/RandomForestClassificationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/RandomForestRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/RandomRDDGeneration.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/RankingMetricsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/RecommendationExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/RegressionMetricsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/SVDExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/SVMWithSGDExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/SampledRDDs.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/SimpleFPGrowth.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/SparseNaiveBayes.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/StandardScalerExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/StratifiedSamplingExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/StreamingKMeansExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/StreamingLinearRegressionExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/StreamingLogisticRegression.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/StreamingTestExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/SummaryStatisticsExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/TFIDFExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/TallSkinnyPCA.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/TallSkinnySVD.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/mllib/Word2VecExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/pythonconverters/AvroConverters.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/RDDRelation.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/SQLDataSourceExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/SparkSQLExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/hive/SparkHiveExample.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/streaming/StructuredKafkaWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/streaming/StructuredNetworkWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/sql/streaming/StructuredNetworkWordCountWindowed.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/CustomReceiver.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/DirectKafkaWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/FlumeEventCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/FlumePollingEventCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/HdfsWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/KafkaWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/NetworkWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/QueueStream.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/RawNetworkGrep.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/RecoverableNetworkWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/SqlNetworkWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/StatefulNetworkWordCount.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/StreamingExamples.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/clickstream/PageViewGenerator.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/streaming/clickstream/PageViewStream.scala" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/ssExtractDependencies/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/inputs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/updateSbtClassifiers/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/export" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/export" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/inputs" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/spark_s-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/spark_s-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/spark_s.iml" afterPath="$PROJECT_DIR$/.idea/modules/spark_s.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/test/spark/develop$.class" afterPath="$PROJECT_DIR$/target/classes/com/test/spark/develop$.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/build.properties" afterPath="$PROJECT_DIR$/project/build.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/plugins.sbt" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/spark_s-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/spark_s-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/spark_s-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/spark_s-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-spark_s-build-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/.history" afterPath="$PROJECT_DIR$/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sbt_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sbt_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sbt_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sbt_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sources_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sources_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sources_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/spark_s$sources_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/spark_s_2.11/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/resolution-cache/default/spark_s_2.11/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/default/spark_s_2.11/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/default/spark_s_2.11/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s$sbt_2.11-default.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s$sbt_2.11-default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s$sources_2.11-default.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s$sources_2.11-default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-compile.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-docs.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-optional.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-plugin.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-pom.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-provided.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-runtime.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-sources.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-test.xml" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/default-spark_s_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/test/spark/develop.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/test/spark/develop.scala" />
     </list>
     <ignored path="spark_s.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -613,8 +123,8 @@
       <file leaf-file-name="develop.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/develop.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
               <folding>
                 <element signature="e#24#57#0" expanded="true" />
               </folding>
@@ -1455,48 +965,48 @@
       <updated>1484724047338</updated>
       <workItem from="1484724053679" duration="29985000" />
       <workItem from="1484873833397" duration="14659000" />
-      <workItem from="1484896901480" duration="1194000" />
+      <workItem from="1484896901480" duration="6580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45838000" />
+    <option name="totallyTimeSpent" value="51224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1363" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.411245" sideWeight="0.48411438" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4105854" sideWeight="0.4872915" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4888" sideWeight="0.49642575" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35926223" sideWeight="0.4793487" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16441621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.411245" sideWeight="0.51588565" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329591" sideWeight="0.49682286" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943678" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4888" sideWeight="0.49642575" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35926223" sideWeight="0.4793487" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16441621" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4105854" sideWeight="0.5127085" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329591" sideWeight="0.49682286" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287891" sideWeight="0.49841145" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1617,26 +1127,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/SparkPi.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/LocalPi.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/org/apache/spark/examples/BroadcastTest.scala" />
-    <entry file="file://$PROJECT_DIR$/project/build.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="73" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -1650,6 +1144,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/package.scala" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/spark_test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1658,10 +1168,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar!/org/apache/spark/SparkConf.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="92" selection-start-line="11" selection-start-column="92" selection-end-line="11" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/test/spark/develop.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
           <folding>
             <element signature="e#24#57#0" expanded="true" />
           </folding>
