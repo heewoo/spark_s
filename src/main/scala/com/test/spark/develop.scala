@@ -48,7 +48,9 @@ object develop {
   }
 
   def main(args: Array[String]): Unit = {
-    input.collect().foreach(println)
+
+//    piar_example.rdd_map(input)
+    piar_example.key_value(input)
   }
 
 
